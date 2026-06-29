@@ -1,0 +1,6 @@
+{
+  "name": "مكتب الرواد للمحاماة والاستشارات القانونية",
+  "description": "الموقع الرسمي لمكتب الرواد للمحاماة والاستشارات القانونية - نخبة من المحامين والمستشارين القانونيين في المملكة العربية السعودية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
